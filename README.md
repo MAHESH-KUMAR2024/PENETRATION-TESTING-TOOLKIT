@@ -62,3 +62,5 @@ This toolkit includes multiple modules for network and web security testing, hel
 # OUTPUT
 
 <img width="775" alt="Image" src="https://github.com/user-attachments/assets/9c4e3619-8e6b-4bce-8c47-a9f3f18a057f" />
+
+<img width="778" alt="Image" src="https://github.com/user-attachments/assets/512982d1-b64c-4da3-a40b-8755e8875f60" />
